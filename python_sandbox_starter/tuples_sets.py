@@ -29,13 +29,16 @@ print("Apples" in fruits_set)
 # Add to set
 fruits_set.add("Grapes")
 
+# Add duplicate (doesn't work on set)
+fruits_set.add("Apples")
+
 # Remove from set
 fruits_set.remove("Grapes")
 
 # Clear set
-fruits_set.clear()
+# fruits_set.clear()
 
 # Delete set
-del fruits_set
+# del fruits_set
 
 print(fruits_set)
