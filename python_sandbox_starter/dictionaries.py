@@ -3,9 +3,9 @@
 
 # Create dict
 person = {
-    "first_name": "Mars",
-    "last_name": "Mendes",
-    "age": 25
+    "first_name": "Dude",
+    "last_name": "Jones",
+    "age": 31
 }
 
 # Use constructor
